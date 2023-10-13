@@ -16,7 +16,7 @@ public class Menu {
             System.out.println("Вітаємо в PC Builder");
             System.out.println();
             System.out.println("[1] Почати збірку комп'ютера");
-            System.out.println("[2] Перегляд всіх компликтуючих");
+            System.out.println("[2] Перегляд всіх комплектуючих");
             System.out.println("[3] Вихід");
             mainMenu = mainInput.nextInt();
             switch (mainMenu){
